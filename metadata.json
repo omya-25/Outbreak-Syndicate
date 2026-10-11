@@ -1,0 +1,6 @@
+{
+  "name": "Outbreak Syndicate",
+  "description": "A battle royale survival, open-world crime, and gothic horror hybrid set in Isla Nova.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
